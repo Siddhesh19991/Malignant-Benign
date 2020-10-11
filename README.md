@@ -2,7 +2,7 @@
 
 Breast Cancer Wisconsin (Diagnostic) Data Set
 
-Analysing the dataset and predicting whether a patient has malignant or benign.
+Analysing the dataset and predicting whether a patient has malignant(cancerous) or benign tumors.
 
 The features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
 
